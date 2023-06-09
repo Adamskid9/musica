@@ -40,7 +40,7 @@ body{
     width: 70%;
     float: left;
     height: 200px;
-    /* border: 2px solid rgb(11, 87, 100); */
+    border: 2px solid rgb(11, 87, 100);
 
 }
 
@@ -168,3 +168,10 @@ body{
 .love{
     color: red;
 }
+/* 
+@media only screen and (max-width: 500px){
+    .music_img,.space_content{
+        width: 100%;
+ 
+    }
+} */
